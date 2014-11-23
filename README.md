@@ -1,4 +1,4 @@
 2014-12-18-yale
 ===============
 
-Software Carpentry bootcamp at Yale
+Bootcamp at Yale University (Dec. 18-19, 2014)
