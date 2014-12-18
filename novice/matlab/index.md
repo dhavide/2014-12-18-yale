@@ -24,5 +24,6 @@ so that you can share you work with them easily, and to use that language *well*
 2.  [Reusing Code](02-loop.html)
 3.  [Creating Functions](03-func.html)
 4.  [Making Choices](04-cond.html)
+5.  [Defensive Programming](05-defensive.html)
 
 </div>
